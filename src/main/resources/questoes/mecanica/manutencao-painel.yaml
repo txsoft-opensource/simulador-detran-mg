@@ -33,3 +33,36 @@ questoes:
       O limite é de 1,6 mm, marcado pelos indicadores de desgaste (TWI) nos sulcos do pneu. Abaixo
       disso, o pneu perde a capacidade de escoar água e o risco de aquaplanagem aumenta muito.
     referencia: Res. CONTRAN 558/1980 (pneus)
+
+  - codigo: MEM-003
+    revisada: true
+    enunciado: >
+      A calibragem dos pneus deve ser feita:
+    alternativas:
+      - texto: Com os pneus quentes, logo depois de uma viagem longa.
+      - texto: Sempre com a pressão máxima escrita na lateral do pneu.
+      - texto: Com os pneus frios, na pressão recomendada pelo fabricante do veículo, incluindo o estepe.
+        correta: true
+      - texto: Só quando o pneu parecer murcho.
+    explicacao: >
+      O pneu quente tem pressão maior, e a leitura engana. A pressão correta é a do manual ou da etiqueta
+      do veículo; a gravada no pneu é a máxima que ele suporta. Confira pelo menos a cada 15 dias e
+      antes de viagens.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, funcionamento do veículo
+
+  - codigo: MEM-004
+    revisada: true
+    enunciado: >
+      Com o freio de estacionamento totalmente solto, a luz de advertência do freio continua acesa no
+      painel. Isso pode indicar:
+    alternativas:
+      - texto: Que um farol está queimado.
+      - texto: Que está na hora de trocar o óleo do motor.
+      - texto: Que o ar-condicionado está ligado.
+      - texto: Nível baixo do fluido de freio ou falha no sistema, e o condutor deve parar com segurança e verificar.
+        correta: true
+    explicacao: >
+      Luzes vermelhas no painel indicam problema sério. A do freio, com o freio de estacionamento solto,
+      costuma apontar nível baixo do fluido, que pode ser vazamento ou desgaste das pastilhas. Não siga
+      viagem sem verificar.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, funcionamento do veículo

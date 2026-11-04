@@ -44,3 +44,39 @@ questoes:
     trecho_fonte: >
       ainda que a sua omissão seja suprida por terceiros ou que se trate de vítima com morte instantânea
       ou com ferimentos leves
+
+  - codigo: CRI-003
+    revisada: true
+    enunciado: >
+      Participar de "racha" (corrida não autorizada) em via pública, gerando situação de risco, é:
+    alternativas:
+      - texto: Apenas uma infração administrativa grave.
+      - texto: Permitido em vias pouco movimentadas.
+      - texto: Crime de trânsito, com detenção de 6 meses a 3 anos, multa e suspensão ou proibição de obter a habilitação.
+        correta: true
+      - texto: Uma contravenção penal punida só com multa.
+    explicacao: >
+      Além de ser infração gravíssima (art. 173), o racha que gera risco à incolumidade pública ou
+      privada é crime (art. 308). Se resultar em lesão grave ou morte, as penas aumentam e passam a ser
+      de reclusão.
+    referencia: CTB art. 308
+    trecho_fonte: de corrida, disputa ou competição automobilística
+
+  - codigo: CRI-004
+    revisada: true
+    enunciado: >
+      Dirigir em via pública sem habilitação, gerando perigo de dano, é:
+    alternativas:
+      - texto: Apenas uma infração gravíssima, sem consequência penal.
+      - texto: Permitido para quem já fez as aulas na autoescola.
+      - texto: Crime somente se causar um acidente com vítima.
+      - texto: Crime de trânsito, com pena de detenção de seis meses a um ano, ou multa.
+        correta: true
+    explicacao: >
+      O crime do art. 309 não exige acidente: basta gerar perigo de dano. Sem gerar perigo, dirigir sem
+      habilitação continua sendo infração gravíssima (art. 162, I). Entregar a direção a quem não é
+      habilitado também é crime (art. 310).
+    referencia: CTB art. 309
+    trecho_fonte: >
+      sem a devida Permissão para Dirigir ou Habilitação ou, ainda, se cassado o direito de dirigir,
+      gerando perigo de dano

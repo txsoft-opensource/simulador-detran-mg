@@ -59,3 +59,73 @@ questoes:
     trecho_fonte: >
       os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados
       pelos não motorizados e, juntos, pela incolumidade dos pedestres
+
+  - codigo: DDV-004
+    revisada: true
+    enunciado: >
+      Em uma via urbana sem ciclovia, ciclofaixa ou acostamento, a bicicleta deve circular:
+    alternativas:
+      - texto: Nos bordos da pista, no mesmo sentido dos veículos, com preferência sobre os veículos automotores.
+        correta: true
+      - texto: Na calçada, junto com os pedestres.
+      - texto: Na contramão, para o ciclista ver os carros que vêm de frente.
+      - texto: No meio da faixa, sem nenhuma preferência.
+    explicacao: >
+      O art. 58 coloca a bicicleta nos bordos da pista, no sentido do fluxo, e com preferência sobre os
+      veículos automotores. A calçada só pode ser usada por bicicletas onde a autoridade de trânsito
+      permitir e sinalizar.
+    referencia: CTB art. 58
+    trecho_fonte: >
+      nos bordos da pista de rolamento, no mesmo sentido de circulação regulamentado para a via, com
+      preferência sobre os veículos automotores
+
+  - codigo: DDV-005
+    revisada: true
+    enunciado: >
+      Antes de abrir a porta de um carro estacionado na rua, o condutor e os passageiros devem:
+    alternativas:
+      - texto: Abrir rapidamente, para não atrapalhar o trânsito.
+      - texto: Certificar-se de que isso não traz perigo para eles e para outros usuários da via, como ciclistas.
+        correta: true
+      - texto: Buzinar para avisar que vão descer.
+      - texto: Ligar a seta para a esquerda.
+    explicacao: >
+      Uma porta aberta sem olhar pode derrubar um ciclista ou um motociclista. O art. 49 obriga a
+      verificar antes, e o embarque e o desembarque devem ser feitos do lado da calçada, exceto para o
+      condutor.
+    referencia: CTB art. 49
+    trecho_fonte: >
+      não deverão abrir a porta do veículo, deixá-la aberta ou descer do veículo sem antes se
+      certificarem de que isso não constitui perigo
+
+  - codigo: DDV-006
+    revisada: true
+    enunciado: >
+      Em uma rodovia sem acostamento, o pedestre deve caminhar:
+    alternativas:
+      - texto: No meio da pista, onde é mais visto.
+      - texto: Pelos bordos da pista, no mesmo sentido dos veículos.
+      - texto: Pelos bordos da pista, em fila única, em sentido contrário ao dos veículos.
+        correta: true
+      - texto: Em grupo, lado a lado, para ser mais visto.
+    explicacao: >
+      Andando contra o fluxo, o pedestre vê os veículos que se aproximam e consegue se afastar a tempo.
+      A fila única ocupa menos espaço da pista.
+    referencia: CTB art. 68, § 3º
+    trecho_fonte: pelos bordos da pista, em fila única, em sentido contrário ao deslocamento de veículos
+
+  - codigo: DDV-007
+    revisada: true
+    enunciado: >
+      Perto de escolas, parques e áreas residenciais, o condutor deve redobrar a atenção porque as
+      crianças:
+    alternativas:
+      - texto: Sempre atravessam na faixa de pedestres.
+      - texto: Calculam bem a velocidade e a distância dos carros.
+      - texto: Respeitam o semáforo melhor que os adultos.
+      - texto: Têm comportamento imprevisível e podem surgir de repente entre os carros estacionados.
+        correta: true
+    explicacao: >
+      Crianças se distraem com facilidade, correm atrás de bolas e, por serem baixas, ficam escondidas
+      entre os carros. Reduza a velocidade e esteja pronto para parar.
+    referencia: Manual de Direção Defensiva (DENATRAN)

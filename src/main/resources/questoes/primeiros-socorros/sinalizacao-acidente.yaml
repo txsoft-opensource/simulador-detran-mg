@@ -33,3 +33,35 @@ questoes:
       SAMU: 192. Corpo de Bombeiros: 193. Polícia Militar: 190. Polícia Rodoviária Federal: 191. Ao ligar,
       informe o local exato, o número de vítimas e o estado delas.
     referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSS-003
+    revisada: true
+    enunciado: >
+      Para sinalizar um acidente em uma via com velocidade máxima de 80 km/h, uma regra prática é começar
+      a sinalização a cerca de:
+    alternativas:
+      - texto: 80 passos longos antes do local, aumentando a distância com chuva, neblina ou à noite.
+        correta: true
+      - texto: 5 metros antes do local.
+      - texto: 10 passos, logo atrás do veículo acidentado.
+      - texto: Nenhuma distância, porque basta deixar o pisca-alerta ligado.
+    explicacao: >
+      A regra prática é contar um passo longo para cada km/h da velocidade máxima da via, e dobrar essa
+      distância com chuva, neblina, à noite ou depois de curvas e lombadas. Assim quem se aproxima tem
+      tempo de ver o aviso e reduzir.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSS-004
+    revisada: true
+    enunciado: >
+      Ao decidir parar para ajudar em um acidente, a primeira coisa a fazer com o próprio veículo é:
+    alternativas:
+      - texto: Parar sobre a pista, ao lado das vítimas.
+      - texto: Estacionar em local seguro, fora da pista, ligar o pisca-alerta e só então sinalizar o local.
+        correta: true
+      - texto: Deixar a luz alta apontada para os veículos que se aproximam.
+      - texto: Deixar o motor ligado e as portas abertas para agilizar o socorro.
+    explicacao: >
+      Quem socorre não pode virar uma nova vítima. Parar fora da pista, com o pisca-alerta ligado, evita
+      um segundo acidente; depois vêm a sinalização do local e o pedido de socorro.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros

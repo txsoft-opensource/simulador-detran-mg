@@ -48,3 +48,35 @@ questoes:
       Sinais sonoros do apito: um silvo breve quer dizer "siga", dois silvos breves quer dizer "pare" e
       um silvo longo quer dizer "diminua a marcha".
     referencia: Anexo II do CTB (sinalização) - sinais sonoros
+
+  - codigo: SLG-004
+    revisada: true
+    enunciado: >
+      Ao se aproximar de um semáforo que acabou de mudar para o amarelo, o condutor deve:
+    alternativas:
+      - texto: Parar o veículo, salvo se isso puser em perigo os veículos que vêm atrás.
+        correta: true
+      - texto: Acelerar para passar antes do vermelho.
+      - texto: Buzinar e seguir em frente.
+      - texto: Parar imediatamente, mesmo que seja sobre a faixa de pedestres.
+    explicacao: >
+      O amarelo significa atenção: o condutor deve parar, a não ser que a parada brusca crie risco de
+      colisão com quem vem atrás. Acelerar para "pegar o amarelo" é a origem de muitas colisões em
+      cruzamentos.
+    referencia: Anexo II do CTB (sinalização) - sinais luminosos
+
+  - codigo: SLG-005
+    revisada: true
+    enunciado: >
+      Um semáforo veicular com a luz amarela piscando (intermitente) indica que o condutor deve:
+    alternativas:
+      - texto: Parar obrigatoriamente, como no vermelho.
+      - texto: Reduzir a velocidade e redobrar a atenção, respeitando as regras de preferência.
+        correta: true
+      - texto: Seguir sem cuidado especial, porque o semáforo está desligado.
+      - texto: Esperar um agente de trânsito autorizar a passagem.
+    explicacao: >
+      O amarelo intermitente indica atenção: o semáforo não está controlando o cruzamento naquele momento.
+      O condutor reduz a velocidade e segue as placas e as regras gerais de preferência, como a de quem
+      vem pela direita.
+    referencia: Anexo II do CTB (sinalização) - sinais luminosos

@@ -33,3 +33,35 @@ questoes:
       Esses sinais indicam estado de choque, quando o sangue não chega direito aos órgãos (comum em
       hemorragias). Mantenha a vítima deitada e aquecida e acione o socorro com urgência.
     referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSA-003
+    revisada: true
+    enunciado: >
+      Para verificar se uma vítima inconsciente está respirando, o socorrista leigo deve:
+    alternativas:
+      - texto: Colocar um espelho na frente da boca dela por cinco minutos.
+      - texto: Sacudir a vítima com força.
+      - texto: Observar se o peito se movimenta e tentar ouvir e sentir a respiração, por até 10 segundos.
+        correta: true
+      - texto: Dar água para ver se ela engole.
+    explicacao: >
+      Ver, ouvir e sentir, sem mover a vítima, por no máximo 10 segundos. Se ela não respira ou só faz
+      movimentos respiratórios irregulares, é preciso acionar o SAMU (192) imediatamente.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSA-004
+    revisada: true
+    enunciado: >
+      Uma vítima não responde e não respira normalmente. Depois de acionar o SAMU (192), quem foi treinado
+      deve:
+    alternativas:
+      - texto: Aguardar o socorro sem fazer nada.
+      - texto: Dar tapas no rosto da vítima até ela acordar.
+      - texto: Levantar as pernas da vítima e esperar.
+      - texto: Fazer compressões fortes e rápidas no centro do peito até a chegada do socorro.
+        correta: true
+    explicacao: >
+      Sem respiração normal, a vítima pode estar em parada cardiorrespiratória, e cada minuto sem
+      compressões reduz a chance de sobrevivência. A orientação é de 100 a 120 compressões por minuto; o
+      atendente do 192 pode orientar quem nunca fez.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros

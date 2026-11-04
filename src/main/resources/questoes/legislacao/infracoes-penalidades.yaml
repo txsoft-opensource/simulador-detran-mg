@@ -69,3 +69,74 @@ questoes:
       Cada infração soma pontos conforme a natureza: gravíssima, 7 pontos; grave, 5; média, 4; leve, 3.
     referencia: CTB art. 259, II
     trecho_fonte: II - grave - cinco pontos;
+
+  - codigo: INF-005
+    revisada: true
+    enunciado: >
+      Avançar o sinal vermelho do semáforo é infração:
+    alternativas:
+      - texto: Grave, com multa e retenção do veículo.
+      - texto: Média, com multa.
+      - texto: Gravíssima, com multa.
+        correta: true
+      - texto: Gravíssima, com multa e suspensão imediata do direito de dirigir.
+    explicacao: >
+      É infração gravíssima, punida com multa e 7 pontos no prontuário, mas sem suspensão direta do
+      direito de dirigir. A exceção é a livre conversão à direita, quando houver sinalização que a
+      permita (art. 44-A).
+    referencia: CTB art. 208
+    trecho_fonte: Avançar o sinal vermelho do semáforo ou o de parada obrigatória
+
+  - codigo: INF-006
+    revisada: true
+    enunciado: >
+      Deixar o condutor ou um passageiro de usar o cinto de segurança é infração:
+    alternativas:
+      - texto: Leve, punida com advertência por escrito.
+      - texto: Média, com multa, e só vale para o condutor.
+      - texto: Gravíssima, com suspensão do direito de dirigir.
+      - texto: Grave, com multa e retenção do veículo até a colocação do cinto.
+        correta: true
+    explicacao: >
+      A infração é grave e vale tanto para o condutor quanto para os passageiros. Além da multa, o
+      veículo fica retido até que o infrator coloque o cinto.
+    referencia: CTB art. 167
+    trecho_fonte: retenção do veículo até colocação do cinto pelo infrator
+
+  - codigo: INF-007
+    revisada: true
+    enunciado: >
+      Um condutor é flagrado a 130 km/h em uma via cujo limite é de 80 km/h, ou seja, mais de 50% acima
+      do permitido. A infração é:
+    alternativas:
+      - texto: Gravíssima, com multa multiplicada por três e suspensão do direito de dirigir.
+        correta: true
+      - texto: Grave, com multa.
+      - texto: Média, com multa.
+      - texto: Gravíssima, com multa simples e remoção do veículo.
+    explicacao: >
+      O art. 218 gradua o excesso de velocidade: até 20% acima, média; de 20% a 50%, grave; mais de 50%,
+      gravíssima, com multa três vezes maior e suspensão do direito de dirigir.
+    referencia: CTB art. 218, III
+    trecho_fonte: >
+      quando a velocidade for superior à máxima em mais de 50% (cinqüenta por cento): Infração -
+      gravíssima; Penalidade - multa (três vezes) e suspensão do direito de dirigir
+
+  - codigo: INF-008
+    revisada: true
+    enunciado: >
+      O condutor que se recusa a fazer o teste do etilômetro (bafômetro) em uma fiscalização:
+    alternativas:
+      - texto: Não sofre penalidade, porque ninguém é obrigado a produzir prova contra si.
+      - texto: Comete infração gravíssima, com multa multiplicada por dez e suspensão do direito de dirigir por 12 meses.
+        correta: true
+      - texto: Comete infração média, com multa.
+      - texto: Só é penalizado se tiver sinais visíveis de embriaguez.
+    explicacao: >
+      A recusa é uma infração própria (art. 165-A), com as mesmas penalidades de dirigir sob influência
+      de álcool, mesmo sem sinais de embriaguez. Recusar o teste não é crime por si só; o crime do art.
+      306 depende da capacidade psicomotora alterada.
+    referencia: CTB art. 165-A
+    trecho_fonte: >
+      Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita
+      certificar influência de álcool

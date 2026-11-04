@@ -57,3 +57,54 @@ questoes:
     trecho_fonte: >
       todos os condutores deverão deixar livre a passagem pela faixa da esquerda, indo para a direita da
       via e parando, se necessário
+
+  - codigo: MAC-004
+    revisada: true
+    enunciado: >
+      Segundo o CTB, a buzina só pode ser usada:
+    alternativas:
+      - texto: Para cumprimentar conhecidos e chamar pessoas.
+      - texto: Em toque breve, para advertências que evitem sinistros e, fora das áreas urbanas, para avisar que vai ultrapassar.
+        correta: true
+      - texto: Sempre que o trânsito estiver parado.
+      - texto: A qualquer hora, desde que em toque prolongado.
+    explicacao: >
+      O art. 41 limita a buzina a toques breves nessas duas situações. Usá-la fora delas, em toque
+      prolongado ou entre as 22h e as 6h, é infração leve (art. 227).
+    referencia: CTB art. 41
+    trecho_fonte: só poderá fazer uso de buzina, desde que em toque breve
+
+  - codigo: MAC-005
+    revisada: true
+    enunciado: >
+      Passar com o veículo sobre uma poça e jogar água nos pedestres que estão na calçada é:
+    alternativas:
+      - texto: Permitido, se o condutor estiver dentro do limite de velocidade.
+      - texto: Só falta de educação, sem penalidade.
+      - texto: Infração média, com multa.
+        correta: true
+      - texto: Crime de trânsito.
+    explicacao: >
+      Arremessar água ou detritos sobre pedestres ou veículos é infração média (art. 171). Em dia de
+      chuva, reduza a velocidade perto das calçadas e desvie das poças quando for seguro.
+    referencia: CTB art. 171
+    trecho_fonte: Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos
+
+  - codigo: MAC-006
+    revisada: true
+    enunciado: >
+      De acordo com o CTB, a educação para o trânsito:
+    alternativas:
+      - texto: É responsabilidade apenas das autoescolas.
+      - texto: Só é obrigatória para quem vai tirar a CNH.
+      - texto: É opcional para os órgãos de trânsito.
+      - texto: É direito de todos e dever prioritário dos órgãos do Sistema Nacional de Trânsito.
+        correta: true
+    explicacao: >
+      O art. 74 trata a educação para o trânsito como direito de todos os cidadãos, e não só de quem está
+      se habilitando, e a coloca como dever prioritário dos órgãos e entidades do Sistema Nacional de
+      Trânsito.
+    referencia: CTB art. 74
+    trecho_fonte: >
+      A educação para o trânsito é direito de todos e constitui dever prioritário para os componentes do
+      Sistema Nacional de Trânsito

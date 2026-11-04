@@ -33,3 +33,35 @@ questoes:
       escorregadia) para que o condutor se prepare. A reação esperada é atenção redobrada e, quando for
       o caso, redução da velocidade.
     referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. II (Advertência)
+
+  - codigo: SAD-003
+    revisada: true
+    enunciado: >
+      Na sinalização temporária de obras na via, as placas de advertência têm fundo:
+    alternativas:
+      - texto: Amarelo.
+      - texto: Branco.
+      - texto: Laranja.
+        correta: true
+      - texto: Verde.
+    explicacao: >
+      As placas de advertência comuns têm fundo amarelo. Na sinalização de obras, que é temporária, o
+      fundo é laranja com símbolos pretos, para chamar mais atenção e mostrar que a situação é
+      provisória.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. II (Advertência)
+
+  - codigo: SAD-004
+    revisada: true
+    enunciado: >
+      A placa em forma de "X", conhecida como Cruz de Santo André, adverte o condutor sobre:
+    alternativas:
+      - texto: Um cruzamento de vias.
+      - texto: A proibição de estacionar.
+      - texto: Uma área escolar.
+      - texto: Uma passagem de nível, isto é, o cruzamento com uma linha férrea.
+        correta: true
+    explicacao: >
+      A Cruz de Santo André (A-41) marca o ponto de cruzamento com a linha férrea. Diante dela, o
+      condutor deve parar, olhar e só atravessar com segurança: deixar de parar antes de transpor a
+      linha férrea é infração gravíssima (CTB art. 212).
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. II (Advertência)

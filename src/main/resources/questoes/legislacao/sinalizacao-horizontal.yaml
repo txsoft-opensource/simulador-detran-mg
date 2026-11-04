@@ -33,3 +33,37 @@ questoes:
       sentido. O branco também é usado nas linhas de bordo da pista, nas faixas de pedestres e nas
       linhas de retenção.
     referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. IV (Sinalização Horizontal)
+
+  - codigo: SHO-003
+    revisada: true
+    enunciado: >
+      No centro da pista há uma linha amarela dupla: contínua do seu lado e seccionada (tracejada) do
+      lado do sentido oposto. Isso significa que:
+    alternativas:
+      - texto: Os dois sentidos podem ultrapassar.
+      - texto: Nenhum dos sentidos pode ultrapassar.
+      - texto: Só os veículos do sentido oposto, do lado da linha seccionada, podem ultrapassar.
+        correta: true
+      - texto: Você pode ultrapassar, desde que buzine antes.
+    explicacao: >
+      Em linhas duplas, vale a linha mais próxima do condutor. A contínua proíbe a ultrapassagem, e a
+      seccionada permite, desde que haja segurança. Então você não pode ultrapassar, e quem vem no
+      sentido oposto pode.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. IV (Sinalização Horizontal)
+
+  - codigo: SHO-004
+    revisada: true
+    enunciado: >
+      A linha de retenção, faixa branca transversal pintada antes de semáforos e de faixas de pedestres,
+      indica:
+    alternativas:
+      - texto: O início de uma faixa exclusiva de ônibus.
+      - texto: Uma área de estacionamento.
+      - texto: Um local onde a ultrapassagem é permitida.
+      - texto: O ponto em que o veículo deve parar quando houver sinal de parada.
+        correta: true
+    explicacao: >
+      A linha de retenção marca o limite antes do qual o veículo deve parar diante de um semáforo
+      vermelho, de uma placa de parada obrigatória ou da ordem de um agente, sem invadir a faixa de
+      pedestres.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. IV (Sinalização Horizontal)

@@ -72,3 +72,71 @@ questoes:
       atrás, ou que a porta de um carro estacionado pode se abrir. A decisão vem depois: é escolher a
       melhor ação diante do risco previsto.
     referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDC-005
+    revisada: true
+    enunciado: >
+      Segundo o CTB, ao regular a velocidade, o condutor deve observar constantemente:
+    alternativas:
+      - texto: As condições da via, do veículo e da carga, o tempo e a intensidade do trânsito.
+        correta: true
+      - texto: Apenas o limite máximo indicado nas placas.
+      - texto: A velocidade dos outros veículos, acompanhando o fluxo mesmo acima do limite.
+      - texto: Somente o horário, já que à noite o limite é menor.
+    explicacao: >
+      O limite da placa é o máximo, não a velocidade ideal. O art. 43 manda ajustar a velocidade às
+      condições da via, do veículo, da carga, do tempo e do trânsito; sob chuva ou com a pista cheia, a
+      velocidade segura pode ser bem menor que o limite.
+    referencia: CTB art. 43
+    trecho_fonte: >
+      observar constantemente as condições físicas da via, do veículo e da carga, as condições
+      meteorológicas e a intensidade do trânsito
+
+  - codigo: DDC-006
+    revisada: true
+    enunciado: >
+      A distância de parada de um veículo é a soma da:
+    alternativas:
+      - texto: Distância de seguimento com a distância lateral.
+      - texto: Distância de reação com a distância de frenagem.
+        correta: true
+      - texto: Comprimento do veículo com a distância de frenagem.
+      - texto: Distância de reação com a distância de ultrapassagem.
+    explicacao: >
+      A distância de reação é a que o veículo percorre entre o condutor perceber o perigo e pisar no
+      freio; a de frenagem, a que ele percorre do acionamento do freio até parar. Cansaço, álcool e
+      celular aumentam o tempo de reação e, com ele, a distância de parada.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDC-007
+    revisada: true
+    enunciado: >
+      Se a velocidade dobrar, de 40 para 80 km/h, a distância de frenagem, nas mesmas condições, fica
+      aproximadamente:
+    alternativas:
+      - texto: Duas vezes maior.
+      - texto: Igual, porque depende só dos freios.
+      - texto: Quatro vezes maior.
+        correta: true
+      - texto: Menor, porque o veículo fica mais estável.
+    explicacao: >
+      A energia que os freios precisam dissipar cresce com o quadrado da velocidade. Por isso, ao dobrar
+      a velocidade, a distância de frenagem fica cerca de quatro vezes maior; é a razão de pequenos
+      excessos de velocidade fazerem tanta diferença numa freada.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDC-008
+    revisada: true
+    enunciado: >
+      Para a direção defensiva, um acidente é considerado evitável quando:
+    alternativas:
+      - texto: É causado por uma falha mecânica.
+      - texto: A culpa é do outro condutor.
+      - texto: Acontece em um dia de chuva.
+      - texto: O condutor poderia tê-lo impedido fazendo tudo o que razoavelmente estava ao seu alcance.
+        correta: true
+    explicacao: >
+      O conceito não depende de quem tem a culpa: se havia algo razoável a fazer para evitar o acidente
+      (reduzir a velocidade, manter distância, fazer a manutenção), ele era evitável. A maioria dos
+      acidentes de trânsito se enquadra nesse caso.
+    referencia: Manual de Direção Defensiva (DENATRAN)
