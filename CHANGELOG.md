@@ -6,6 +6,8 @@ As mudanças que importam para quem usa o simulador ficam registradas aqui. O fo
 
 ## [Não lançado]
 
+## [1.2.0] - 2026-11-04
+
 ### Adicionado
 
 - Segundo lote de 60 questões, na proporção da prova: 24 de legislação, 20 de direção defensiva, 6 de primeiros
@@ -63,7 +65,8 @@ As mudanças que importam para quem usa o simulador ficam registradas aqui. O fo
 - Banco inicial de 60 questões em YAML, com os trechos do CTB conferidos contra o texto vigente da lei.
 - Importação das questões na inicialização, com uma nova versão sempre que uma questão é alterada.
 
-[Não lançado]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.1.1...HEAD
+[Não lançado]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.2.0...HEAD
+[1.2.0]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.1.1...V1.2.0
 [1.1.1]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.1.0...V1.1.1
 [1.1.0]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.0.0...V1.1.0
 [1.0.0]: https://github.com/txsoft-opensource/simulador-detran-mg/tree/V1.0.0
