@@ -6,7 +6,7 @@ valiosas são as que deixam as questões mais corretas.
 ## Formas de contribuir
 
 - **Achou um erro em uma questão?** Abra uma issue com o formulário
-  [Erro em uma questão](https://github.com/LucasGMonteGomes/simulador-detran-mg/issues/new?template=erro-em-questao.yml).
+  [Erro em uma questão](https://github.com/txsoft-opensource/simulador-detran-mg/issues/new?template=erro-em-questao.yml).
   Não precisa saber programar.
 - **Quer revisar ou escrever questões?** Veja [Questões](#questões) abaixo.
 - **Quer mexer no código?** Veja [Código](#código).

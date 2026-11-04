@@ -1,7 +1,7 @@
 # Simulado DETRAN-MG
 
-[![Testes](https://github.com/LucasGMonteGomes/simulador-detran-mg/actions/workflows/testes.yml/badge.svg)](https://github.com/LucasGMonteGomes/simulador-detran-mg/actions/workflows/testes.yml)
-[![Imagem](https://github.com/LucasGMonteGomes/simulador-detran-mg/actions/workflows/publicar-imagem.yml/badge.svg)](https://github.com/LucasGMonteGomes/simulador-detran-mg/pkgs/container/simulador-detran-mg)
+[![Testes](https://github.com/txsoft-opensource/simulador-detran-mg/actions/workflows/testes.yml/badge.svg)](https://github.com/txsoft-opensource/simulador-detran-mg/actions/workflows/testes.yml)
+[![Imagem](https://github.com/txsoft-opensource/simulador-detran-mg/actions/workflows/publicar-imagem.yml/badge.svg)](https://github.com/txsoft-opensource/simulador-detran-mg/pkgs/container/simulador-detran-mg)
 
 Sistema web para estudar para a prova teórica do DETRAN-MG com simulados no formato da prova, correção
 comentada e acompanhamento da evolução.
@@ -25,7 +25,7 @@ comentada e acompanhamento da evolução.
 
 O simulador roda no Docker, então não é preciso instalar Java nem banco de dados. Funciona no Windows, no macOS e
 no Linux, em processadores Intel/AMD e ARM (como Macs com Apple Silicon). A imagem fica no
-[GitHub Packages](https://github.com/LucasGMonteGomes/simulador-detran-mg/pkgs/container/simulador-detran-mg)
+[GitHub Packages](https://github.com/txsoft-opensource/simulador-detran-mg/pkgs/container/simulador-detran-mg)
 deste repositório.
 
 > [!TIP]
@@ -59,13 +59,13 @@ O arquivo diz ao Docker o que subir: a aplicação e um PostgreSQL só para ela.
 Linux e macOS:
 
 ```bash
-curl -o compose.yaml https://raw.githubusercontent.com/LucasGMonteGomes/simulador-detran-mg/main/compose.app.yaml
+curl -o compose.yaml https://raw.githubusercontent.com/txsoft-opensource/simulador-detran-mg/main/compose.app.yaml
 ```
 
 Windows (PowerShell):
 
 ```powershell
-curl.exe -o compose.yaml https://raw.githubusercontent.com/LucasGMonteGomes/simulador-detran-mg/main/compose.app.yaml
+curl.exe -o compose.yaml https://raw.githubusercontent.com/txsoft-opensource/simulador-detran-mg/main/compose.app.yaml
 ```
 
 Prefere o navegador? Abra o [`compose.app.yaml`](compose.app.yaml), clique em **Download raw file** e salve o
@@ -113,6 +113,10 @@ macOS, isso depende de o Docker Desktop abrir junto com o sistema.
 docker compose up -d --pull always
 ```
 
+> [!IMPORTANT]
+> Baixou o `compose.yaml` antes da versão 1.2.0? Baixe-o de novo (passo 3) antes de atualizar. O projeto passou
+> para a organização txsoft-opensource, e a imagem mudou de endereço: o arquivo antigo continua baixando a 1.1.1.
+
 **Ver os logs**, se algo der errado. Para sair, aperte `Ctrl+C`.
 
 ```bash
@@ -133,7 +137,7 @@ a configuração vale para todos os comandos acima.
 | Variável | Para que serve | Padrão |
 |---|---|---|
 | `SIMULADOR_PORTA` | Porta do simulador no seu computador | `8080` |
-| `SIMULADOR_IMAGEM` | Imagem da aplicação; troque `latest` por uma versão, como `1.1.0`, para fixá-la | `ghcr.io/lucasgmontegomes/simulador-detran-mg:latest` |
+| `SIMULADOR_IMAGEM` | Imagem da aplicação; troque `latest` por uma versão, como `1.2.0`, para fixá-la | `ghcr.io/txsoft-opensource/simulador-detran-mg:latest` |
 
 Por exemplo, para usar a porta 9090 quando a 8080 já estiver ocupada:
 
@@ -247,7 +251,7 @@ Ninguém precisa rodar `docker push`: basta criar a tag da versão.
    ```
 
 3. O workflow [`publicar-imagem.yml`](.github/workflows/publicar-imagem.yml) gera a imagem para amd64 e arm64 e
-   publica `ghcr.io/lucasgmontegomes/simulador-detran-mg:1.2.0` e `:latest`. Se a versão do `pom.xml` não for a
+   publica `ghcr.io/txsoft-opensource/simulador-detran-mg:1.2.0` e `:latest`. Se a versão do `pom.xml` não for a
    da tag, ele para antes de publicar.
 
 Para publicar uma tag que já existia ou republicar uma versão, rode o workflow pela aba **Actions** ("Run
@@ -300,7 +304,7 @@ src/main/resources
 ## Contribuindo
 
 - Achou um gabarito errado ou uma regra desatualizada? Abra uma issue pelo formulário
-  [Erro em uma questão](https://github.com/LucasGMonteGomes/simulador-detran-mg/issues/new?template=erro-em-questao.yml).
+  [Erro em uma questão](https://github.com/txsoft-opensource/simulador-detran-mg/issues/new?template=erro-em-questao.yml).
 - Para revisar ou escrever questões, ou mexer no código, veja o [guia de contribuição](.github/CONTRIBUTING.md).
 - Falhas de segurança seguem a [política de segurança](.github/SECURITY.md), nunca uma issue pública.
 - O que mudou em cada versão está no [CHANGELOG](CHANGELOG.md).

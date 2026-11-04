@@ -23,7 +23,7 @@ concurrency:
   group: publicar-imagem-${{ inputs.tag || github.ref_name }}
 
 env:
-  IMAGEM: ghcr.io/lucasgmontegomes/simulador-detran-mg
+  IMAGEM: ghcr.io/txsoft-opensource/simulador-detran-mg
 
 jobs:
   publicar:

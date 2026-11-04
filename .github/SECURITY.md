@@ -22,7 +22,7 @@ de reportar.
 
 1. Vá até a aba **Security** do repositório.
 2. Clique em **Report a vulnerability**
-   ([link direto](https://github.com/LucasGMonteGomes/simulador-detran-mg/security/advisories/new)).
+   ([link direto](https://github.com/txsoft-opensource/simulador-detran-mg/security/advisories/new)).
 
 Inclua, se possível:
 
