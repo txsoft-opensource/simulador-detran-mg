@@ -12,6 +12,13 @@ As mudanças que importam para quem usa o simulador ficam registradas aqui. O fo
   socorros, 6 de meio ambiente e 4 de mecânica. Com 120 questões, dá para fazer 4 provas seguidas sem repetir
   nenhuma.
 
+### Alterado
+
+- O projeto passou para a organização [txsoft-opensource](https://github.com/txsoft-opensource), e a imagem passa
+  a ser publicada em `ghcr.io/txsoft-opensource/simulador-detran-mg`. Quem baixou o `compose.yaml` antes desta
+  versão precisa baixá-lo de novo para receber as atualizações. As versões 1.1.0 e 1.1.1 continuam em
+  `ghcr.io/lucasgmontegomes/simulador-detran-mg`.
+
 ## [1.1.1] - 2026-10-28
 
 ### Adicionado
@@ -56,7 +63,7 @@ As mudanças que importam para quem usa o simulador ficam registradas aqui. O fo
 - Banco inicial de 60 questões em YAML, com os trechos do CTB conferidos contra o texto vigente da lei.
 - Importação das questões na inicialização, com uma nova versão sempre que uma questão é alterada.
 
-[Não lançado]: https://github.com/LucasGMonteGomes/simulador-detran-mg/compare/V1.1.1...HEAD
-[1.1.1]: https://github.com/LucasGMonteGomes/simulador-detran-mg/compare/V1.1.0...V1.1.1
-[1.1.0]: https://github.com/LucasGMonteGomes/simulador-detran-mg/compare/V1.0.0...V1.1.0
-[1.0.0]: https://github.com/LucasGMonteGomes/simulador-detran-mg/tree/V1.0.0
+[Não lançado]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.1.1...HEAD
+[1.1.1]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.1.0...V1.1.1
+[1.1.0]: https://github.com/txsoft-opensource/simulador-detran-mg/compare/V1.0.0...V1.1.0
+[1.0.0]: https://github.com/txsoft-opensource/simulador-detran-mg/tree/V1.0.0

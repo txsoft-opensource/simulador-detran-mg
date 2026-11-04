@@ -29,7 +29,7 @@ services:
 
   app:
     # Outra imagem (uma versão fixa ou uma gerada localmente): SIMULADOR_IMAGEM=nome:tag no .env.
-    image: ${SIMULADOR_IMAGEM:-ghcr.io/lucasgmontegomes/simulador-detran-mg:latest}
+    image: ${SIMULADOR_IMAGEM:-ghcr.io/txsoft-opensource/simulador-detran-mg:latest}
     depends_on:
       postgres:
         condition: service_healthy
