@@ -6,6 +6,12 @@ As mudanças que importam para quem usa o simulador ficam registradas aqui. O fo
 
 ## [Não lançado]
 
+### Adicionado
+
+- Segundo lote de 60 questões, na proporção da prova: 24 de legislação, 20 de direção defensiva, 6 de primeiros
+  socorros, 6 de meio ambiente e 4 de mecânica. Com 120 questões, dá para fazer 4 provas seguidas sem repetir
+  nenhuma.
+
 ## [1.1.1] - 2026-10-28
 
 ### Adicionado

@@ -36,3 +36,34 @@ questoes:
       líquido sob pressão, com risco de queimaduras. Espere esfriar e verifique o nível; se o problema
       continuar, procure um mecânico.
     referencia: Res. CONTRAN 789/2020 - curso teórico, funcionamento do veículo
+
+  - codigo: MES-003
+    revisada: true
+    enunciado: >
+      Para verificar ou completar o líquido do sistema de arrefecimento, o condutor deve:
+    alternativas:
+      - texto: Esperar o motor esfriar antes de abrir o reservatório.
+        correta: true
+      - texto: Abrir a tampa com o motor quente, para conferir a pressão.
+      - texto: Completar só com água gelada, com o motor ligado.
+      - texto: Usar óleo de motor no lugar do aditivo.
+    explicacao: >
+      Com o motor quente, o sistema fica pressurizado, e abrir a tampa pode lançar líquido fervendo no
+      rosto. Com o motor frio, complete com água e o aditivo indicado pelo fabricante.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, funcionamento do veículo
+
+  - codigo: MES-004
+    revisada: true
+    enunciado: >
+      Amortecedores gastos:
+    alternativas:
+      - texto: Melhoram o conforto em estradas de terra.
+      - texto: Diminuem a aderência dos pneus e a estabilidade, aumentando a distância de frenagem.
+        correta: true
+      - texto: Só aumentam o barulho do veículo.
+      - texto: Reduzem o consumo de combustível.
+    explicacao: >
+      Os amortecedores mantêm os pneus em contato com o solo. Gastos, deixam o veículo "quicar": ele
+      perde estabilidade nas curvas e precisa de mais espaço para frear, principalmente em pista
+      irregular ou molhada.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, funcionamento do veículo

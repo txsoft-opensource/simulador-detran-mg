@@ -66,3 +66,71 @@ questoes:
       Raiva, ansiedade e tristeza tiram a atenção e levam a decisões arriscadas. O estado emocional é uma
       das condições adversas ligadas ao próprio condutor.
     referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDS-005
+    revisada: true
+    enunciado: >
+      Em uma viagem longa, uma prática recomendada para evitar a fadiga é:
+    alternativas:
+      - texto: Parar para descansar mais ou menos a cada duas horas.
+        correta: true
+      - texto: Tomar bebidas energéticas e seguir sem paradas.
+      - texto: Abrir os vidros e aumentar o volume do som para se manter acordado.
+      - texto: Dirigir mais rápido para chegar logo.
+    explicacao: >
+      O cansaço chega antes do sono e diminui a atenção e os reflexos. Paradas regulares, com
+      alimentação leve e um pouco de movimento, previnem a fadiga. Café, energético, vento e música alta
+      só disfarçam o cansaço por pouco tempo.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDS-006
+    revisada: true
+    enunciado: >
+      Sobre beber antes de dirigir, o CTB determina que:
+    alternativas:
+      - texto: Até duas latas de cerveja são permitidas.
+      - texto: Qualquer concentração de álcool no sangue ou no ar expirado sujeita o condutor às penalidades da infração.
+        correta: true
+      - texto: Só há penalidade se o condutor causar um acidente.
+      - texto: O limite permitido é de 0,6 grama de álcool por litro de sangue.
+    explicacao: >
+      É a "tolerância zero" do art. 276: qualquer quantidade de álcool já leva às penalidades do art.
+      165. A margem do CONTRAN serve só para compensar o erro do aparelho. A partir de 6 decigramas por
+      litro de sangue (ou 0,3 mg por litro de ar), a conduta também é crime (art. 306).
+    referencia: CTB art. 276
+    trecho_fonte: >
+      Qualquer concentração de álcool por litro de sangue ou por litro de ar alveolar sujeita o condutor
+      às penalidades previstas no art. 165
+
+  - codigo: DDS-007
+    revisada: true
+    enunciado: >
+      Falar ao celular no viva-voz ou ler mensagens na tela do carro enquanto dirige:
+    alternativas:
+      - texto: É totalmente seguro, porque as mãos continuam no volante.
+      - texto: Ajuda a manter a atenção em viagens longas.
+      - texto: Também distrai o condutor e aumenta o tempo de reação, mesmo com as mãos livres.
+        correta: true
+      - texto: Só é perigoso à noite.
+    explicacao: >
+      A distração não é só das mãos: a atenção vai para a conversa ou para a tela, e o condutor demora
+      mais para perceber o perigo. Segurar ou manusear o celular é infração gravíssima, e usar fones de
+      ouvido, média (CTB art. 252).
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDS-008
+    revisada: true
+    enunciado: >
+      Um condutor cuja CNH exige o uso de lentes corretoras dirige sem os óculos. Ele:
+    alternativas:
+      - texto: Não comete infração se enxergar bem de perto.
+      - texto: Comete infração leve.
+      - texto: Só pode ser multado em rodovias.
+      - texto: Comete infração gravíssima, e o veículo fica retido até a irregularidade ser resolvida.
+        correta: true
+    explicacao: >
+      A restrição anotada na CNH faz parte da habilitação. Dirigir sem as lentes corretoras, o aparelho
+      auditivo ou as adaptações exigidas é infração gravíssima, com retenção do veículo até que a
+      situação seja regularizada.
+    referencia: CTB art. 162, VI
+    trecho_fonte: sem usar lentes corretoras de visão

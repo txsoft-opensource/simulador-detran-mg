@@ -31,3 +31,34 @@ questoes:
       Líquidos e alimentos podem provocar vômito e engasgo e atrapalhar uma eventual cirurgia. Também não
       se deve mover a vítima, a não ser em caso de risco iminente, como incêndio ou explosão.
     referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSC-003
+    revisada: true
+    enunciado: >
+      Para conter um sangramento intenso em um ferimento no braço, o socorrista leigo deve:
+    alternativas:
+      - texto: Pressionar o ferimento com um pano limpo e não retirá-lo; se encharcar, colocar outro por cima.
+        correta: true
+      - texto: Lavar o ferimento com álcool.
+      - texto: Retirar qualquer objeto encravado no ferimento.
+      - texto: Colocar pó de café ou outra substância para estancar.
+    explicacao: >
+      A compressão direta é a forma mais segura de controlar a hemorragia. Tirar o pano reabre o
+      ferimento, e objetos encravados devem ficar onde estão até o socorro, porque podem estar contendo
+      o sangramento.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros
+
+  - codigo: PSC-004
+    revisada: true
+    enunciado: >
+      Em caso de queimadura, o correto é:
+    alternativas:
+      - texto: Passar manteiga, pasta de dente ou pó de café.
+      - texto: Resfriar a área com água corrente em temperatura ambiente e cobri-la com um pano limpo.
+        correta: true
+      - texto: Estourar as bolhas para aliviar a dor.
+      - texto: Arrancar a roupa que estiver grudada na pele.
+    explicacao: >
+      A água corrente esfria a pele e limita a lesão. Receitas caseiras contaminam a ferida, bolhas
+      estouradas viram porta de entrada para infecção e arrancar a roupa grudada aprofunda a queimadura.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, noções de primeiros socorros

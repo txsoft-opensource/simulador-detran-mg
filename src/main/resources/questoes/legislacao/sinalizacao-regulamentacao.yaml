@@ -36,3 +36,35 @@ questoes:
       triangular com o vértice para baixo. O formato único permite reconhecê-las mesmo de longe ou com a
       pintura desgastada.
     referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. I (Regulamentação)
+
+  - codigo: SRE-003
+    revisada: true
+    enunciado: >
+      Em geral, as placas de regulamentação têm:
+    alternativas:
+      - texto: Forma circular, fundo branco, orla vermelha e símbolos pretos.
+        correta: true
+      - texto: Forma de losango, fundo amarelo e símbolos pretos.
+      - texto: Forma retangular, fundo azul e símbolos brancos.
+      - texto: Forma triangular, fundo laranja e símbolos pretos.
+    explicacao: >
+      O padrão das placas de regulamentação é o círculo branco com orla vermelha e símbolos pretos (com
+      tarja vermelha quando indicam proibição). As exceções são a R-1, octogonal, e a R-2, triangular.
+      Losango amarelo é advertência; retângulo azul, indicação de serviços.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. I (Regulamentação)
+
+  - codigo: SRE-004
+    revisada: true
+    enunciado: >
+      A placa R-2, "Dê a preferência", tem o formato de:
+    alternativas:
+      - texto: Um octógono.
+      - texto: Um triângulo com um dos vértices para baixo.
+        correta: true
+      - texto: Um círculo com uma tarja diagonal.
+      - texto: Um losango.
+    explicacao: >
+      A R-2 é um triângulo com o vértice para baixo, fundo branco e orla vermelha. Ela indica que o
+      condutor deve dar preferência aos veículos da via em que vai entrar ou que vai cruzar, parando se
+      for preciso. Junto com a R-1 (octógono), tem forma exclusiva para ser reconhecida mesmo de longe.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. I (Regulamentação)

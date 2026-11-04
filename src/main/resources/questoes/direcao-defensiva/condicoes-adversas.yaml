@@ -67,3 +67,67 @@ questoes:
       Chuva, neblina e vento são condições de tempo; ofuscamento e penumbra, de luz; buracos e falta de
       acostamento, de via.
     referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDA-005
+    revisada: true
+    enunciado: >
+      No começo de uma chuva, a pista costuma ficar ainda mais escorregadia porque:
+    alternativas:
+      - texto: A água se mistura com o óleo, a poeira e a borracha acumulados no asfalto.
+        correta: true
+      - texto: O asfalto esfria e fica mais duro.
+      - texto: Os pneus esquentam demais.
+      - texto: A chuva desliga o sistema de freios ABS.
+    explicacao: >
+      Nos primeiros minutos, a água forma uma pasta escorregadia com a sujeira do asfalto. Só depois de
+      algum tempo de chuva a pista fica mais limpa. Reduza a velocidade e aumente a distância do veículo
+      da frente desde as primeiras gotas.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDA-006
+    revisada: true
+    enunciado: >
+      Ao amanhecer e ao entardecer, quando a luz natural é fraca, o condutor deve:
+    alternativas:
+      - texto: Usar a luz alta, mesmo em vias iluminadas.
+      - texto: Acender o farol baixo, para ver e ser visto.
+        correta: true
+      - texto: Ligar apenas o pisca-alerta.
+      - texto: Usar óculos escuros para diminuir o contraste.
+    explicacao: >
+      A penumbra é uma condição adversa de luz: os olhos demoram a se adaptar e os veículos com faróis
+      apagados quase desaparecem. O farol baixo aceso ajuda o condutor a enxergar e, principalmente, a
+      ser visto pelos outros.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDA-007
+    revisada: true
+    enunciado: >
+      Em uma descida longa de serra, para não superaquecer os freios, o condutor deve:
+    alternativas:
+      - texto: Descer em ponto morto, para economizar combustível.
+      - texto: Manter o pé no freio durante toda a descida.
+      - texto: Usar uma marcha reduzida (freio-motor) e frear de forma intermitente.
+        correta: true
+      - texto: Desligar o motor e deixar o veículo descer sozinho.
+    explicacao: >
+      Freios usados sem parar esquentam e perdem eficiência. A marcha reduzida segura o veículo com o
+      próprio motor. Descer desengrenado ou com o motor desligado, além de perigoso, é infração média
+      (CTB art. 231, IX).
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDA-008
+    revisada: true
+    enunciado: >
+      Ao ultrapassar um caminhão em uma rodovia com vento lateral forte, o condutor deve:
+    alternativas:
+      - texto: Acelerar bruscamente para sair logo da área de vento.
+      - texto: Soltar o volante para que o carro se alinhe sozinho.
+      - texto: Frear bruscamente ao lado do caminhão.
+      - texto: Segurar o volante com firmeza e reduzir a velocidade, se for preciso.
+        correta: true
+    explicacao: >
+      Ao passar pelo caminhão, o veículo sai da "sombra" do vento de repente e pode ser empurrado para o
+      lado. Com as mãos firmes no volante e velocidade moderada, o condutor corrige a trajetória sem
+      movimentos bruscos.
+    referencia: Manual de Direção Defensiva (DENATRAN)

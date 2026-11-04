@@ -56,3 +56,53 @@ questoes:
     trecho_fonte: >
       cujo peso bruto total não exceda a três mil e quinhentos quilogramas e cuja lotação não exceda a
       oito lugares, excluído o do motorista
+
+  - codigo: HAB-004
+    revisada: true
+    enunciado: >
+      Para se habilitar, o candidato precisa, entre outros requisitos:
+    alternativas:
+      - texto: Ter concluído o ensino médio.
+      - texto: Ser penalmente imputável, saber ler e escrever e ter documento de identidade.
+        correta: true
+      - texto: Ter pelo menos 21 anos de idade.
+      - texto: Possuir um veículo registrado em seu nome.
+    explicacao: >
+      O art. 140 exige três requisitos: ser penalmente imputável (no Brasil, ter 18 anos ou mais), saber
+      ler e escrever e possuir carteira de identidade ou documento equivalente. Não há exigência de
+      escolaridade mínima nem de veículo próprio.
+    referencia: CTB art. 140
+    trecho_fonte: ser penalmente imputável
+
+  - codigo: HAB-005
+    revisada: true
+    enunciado: >
+      Um condutor de 45 anos deve renovar o exame de aptidão física e mental, em regra, a cada:
+    alternativas:
+      - texto: 3 anos.
+      - texto: 5 anos.
+      - texto: 10 anos.
+        correta: true
+      - texto: 15 anos.
+    explicacao: >
+      Desde a Lei 14.071/2020, o prazo depende da idade: a cada 10 anos para quem tem menos de 50, a cada
+      5 anos de 50 até 69 e a cada 3 anos a partir dos 70. O médico perito pode reduzir o prazo se
+      houver indício de condição que exija acompanhamento.
+    referencia: CTB art. 147, § 2º, I
+    trecho_fonte: a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos
+
+  - codigo: HAB-006
+    revisada: true
+    enunciado: >
+      Dirigir com a Carteira Nacional de Habilitação vencida há mais de 30 dias é:
+    alternativas:
+      - texto: Permitido, porque a tolerância depois do vencimento é de 60 dias.
+      - texto: Infração leve, punida apenas com advertência por escrito.
+      - texto: Infração média, com multa.
+      - texto: Infração gravíssima, com multa e retenção do veículo até a apresentação de condutor habilitado.
+        correta: true
+    explicacao: >
+      Até 30 dias depois do vencimento não há infração. Passado esse prazo, dirigir com a CNH vencida é
+      infração gravíssima, com multa, e o veículo fica retido até chegar um condutor habilitado.
+    referencia: CTB art. 162, V
+    trecho_fonte: com Carteira Nacional de Habilitação vencida há mais de 30 (trinta) dias

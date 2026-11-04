@@ -91,3 +91,72 @@ questoes:
       Os retrovisores não mostram tudo: há regiões ao lado e atrás do veículo (pontos cegos) onde motos
       e carros podem ficar escondidos. Uma olhada rápida por sobre o ombro evita colisões laterais.
     referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDE-006
+    revisada: true
+    enunciado: >
+      Em vias de mão dupla com pista única, a ultrapassagem é proibida, salvo sinalização que a permita:
+    alternativas:
+      - texto: Em curvas e aclives sem visibilidade, passagens de nível, pontes, viadutos e travessias de pedestres.
+        correta: true
+      - texto: Em retas com boa visibilidade.
+      - texto: Nos trechos com linha seccionada.
+      - texto: Durante o dia.
+    explicacao: >
+      São os locais em que o condutor não consegue ver quem vem em sentido contrário ou em que não há
+      espaço de fuga. Em retas com visibilidade e linha seccionada, a ultrapassagem é permitida, sempre
+      com segurança.
+    referencia: CTB art. 32
+    trecho_fonte: >
+      nos trechos em curvas e em aclives sem visibilidade suficiente, nas passagens de nível, nas pontes
+      e viadutos e nas travessias de pedestres
+
+  - codigo: DDE-007
+    revisada: true
+    enunciado: >
+      Um caminhão vai fazer uma curva à direita em um cruzamento. Para uma moto parada logo ao lado
+      direito dele, o mais seguro é:
+    alternativas:
+      - texto: Ficar onde está, porque o motorista do caminhão vê tudo pelos retrovisores.
+      - texto: Ficar atrás do caminhão e esperar, porque ao lado dele ela pode estar no ponto cego.
+        correta: true
+      - texto: Acelerar e passar à frente do caminhão durante a curva.
+      - texto: Buzinar sem parar até o caminhão terminar a curva.
+    explicacao: >
+      Veículos grandes têm pontos cegos amplos, principalmente do lado direito, e ao fazer a curva a
+      traseira "fecha" o espaço. Quem está ali pode ser atingido sem ser visto. Fique onde o motorista
+      consiga ver você pelos retrovisores.
+    referencia: Manual de Direção Defensiva (DENATRAN)
+
+  - codigo: DDE-008
+    revisada: true
+    enunciado: >
+      O pisca-alerta deve ser usado:
+    alternativas:
+      - texto: Para parar rapidamente em fila dupla.
+      - texto: Sob chuva forte, com o veículo em movimento.
+      - texto: Em imobilizações ou situações de emergência, e quando a regulamentação da via determinar.
+        correta: true
+      - texto: Para agradecer a gentileza de outro condutor.
+    explicacao: >
+      O CTB só prevê o pisca-alerta nessas situações. Com o veículo em movimento na chuva, ele confunde
+      os outros condutores, que podem achar que o veículo está parado, e impede que se veja a seta.
+      Parar em fila dupla é infração, com ou sem pisca-alerta.
+    referencia: CTB art. 40, V
+    trecho_fonte: em imobilizações ou situações de emergência
+
+  - codigo: DDE-009
+    revisada: true
+    enunciado: >
+      Andar de marcha à ré por um trecho longo, para não ter de dar a volta no quarteirão, é:
+    alternativas:
+      - texto: Permitido, se o pisca-alerta estiver ligado.
+      - texto: Permitido em vias locais.
+      - texto: Infração leve.
+      - texto: Infração grave, porque a marcha à ré só é permitida na distância necessária a pequenas manobras.
+        correta: true
+    explicacao: >
+      Em marcha à ré, a visibilidade é menor e os outros condutores não esperam o movimento. Por isso o
+      CTB só permite a ré em pequenas manobras e sem causar riscos; fora disso, é infração grave.
+    referencia: CTB art. 194
+    trecho_fonte: Transitar em marcha à ré, salvo na distância necessária a pequenas manobras

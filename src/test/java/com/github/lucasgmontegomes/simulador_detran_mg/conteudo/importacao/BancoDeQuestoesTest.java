@@ -30,7 +30,7 @@ class BancoDeQuestoesTest {
 	private static final Map<String, Integer> POR_PROVA = Map.of("legislacao", 12, "direcao-defensiva", 10,
 			"primeiros-socorros", 3, "meio-ambiente", 3, "mecanica", 2);
 
-	private static final int SIMULADOS_SEM_REPETIR = 2;
+	private static final int SIMULADOS_SEM_REPETIR = 4;
 
 	@Autowired
 	private LeitorArquivosQuestoes leitor;
@@ -49,7 +49,7 @@ class BancoDeQuestoesTest {
 	}
 
 	@Test
-	void haQuestoesSuficientesParaDoisSimuladosSemRepetir() {
+	void haQuestoesSuficientesParaQuatroSimuladosSemRepetir() {
 		importador.importar(leitor.ler(LeitorArquivosQuestoes.PADRAO_CLASSPATH));
 
 		Map<String, Long> porDisciplina = questoes.findAll()

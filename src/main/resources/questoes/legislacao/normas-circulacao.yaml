@@ -71,3 +71,78 @@ questoes:
     trecho_fonte: >
       As crianças com idade inferior a 10 (dez) anos que não tenham atingido 1,45 m (um metro e quarenta
       e cinco centímetros) de altura devem ser transportadas nos bancos traseiros
+
+  - codigo: CIR-005
+    revisada: true
+    enunciado: >
+      Em uma rodovia de pista dupla sem placa de velocidade, a velocidade máxima permitida para um
+      automóvel é de:
+    alternativas:
+      - texto: 110 km/h.
+        correta: true
+      - texto: 100 km/h.
+      - texto: 90 km/h.
+      - texto: 120 km/h.
+    explicacao: >
+      Sem sinalização, valem os limites do art. 61. Nas rodovias de pista dupla, 110 km/h para automóveis,
+      camionetas, caminhonetes e motocicletas e 90 km/h para os demais veículos. Nas de pista simples,
+      100 km/h e 90 km/h.
+    referencia: CTB art. 61, § 1º, II, a, 1
+    trecho_fonte: >
+      110 km/h (cento e dez quilômetros por hora) para automóveis, camionetas, caminhonetes e motocicletas
+
+  - codigo: CIR-006
+    revisada: true
+    enunciado: >
+      Durante o dia, sem chuva nem neblina, em uma rodovia de pista simples fora do perímetro urbano, o
+      uso do farol aceso é:
+    alternativas:
+      - texto: Obrigatório para todos os veículos.
+      - texto: Obrigatório para os veículos que não têm luz de rodagem diurna (DRL).
+        correta: true
+      - texto: Proibido, porque o farol só pode ser usado à noite.
+      - texto: Opcional para todos os veículos.
+    explicacao: >
+      A Lei 14.071/2020 mudou a regra. O farol aceso de dia nessas rodovias continua obrigatório, mas só
+      para os veículos sem luz de rodagem diurna; nos que têm, a DRL já cumpre a função de tornar o
+      veículo visível. Muitos simulados antigos ainda dizem que vale para todos.
+    referencia: CTB art. 40, § 2º
+    trecho_fonte: >
+      os veículos que não dispuserem de luzes de rodagem diurna deverão manter acesos os faróis nas
+      rodovias de pista simples situadas fora dos perímetros urbanos, mesmo durante o dia
+
+  - codigo: CIR-007
+    revisada: true
+    enunciado: >
+      Dois veículos chegam ao mesmo tempo a um cruzamento sem sinalização. Não é uma rotatória e nenhum
+      deles vem de uma rodovia. Tem preferência:
+    alternativas:
+      - texto: O que estiver em maior velocidade.
+      - texto: O veículo de maior porte.
+      - texto: O que vier pela direita do condutor.
+        correta: true
+      - texto: O que vier pela esquerda do condutor.
+    explicacao: >
+      Em cruzamento não sinalizado, o art. 29, III, dá preferência a quem vem da rodovia; na rotatória,
+      a quem já circula por ela; nos demais casos, a quem vem pela direita.
+    referencia: CTB art. 29, III, c
+    trecho_fonte: nos demais casos, o que vier pela direita do condutor
+
+  - codigo: CIR-008
+    revisada: true
+    enunciado: >
+      À noite, em uma via sem iluminação pública, o condutor deve usar:
+    alternativas:
+      - texto: Apenas a lanterna (luz de posição).
+      - texto: Luz baixa o tempo todo.
+      - texto: Luz alta junto com o pisca-alerta.
+      - texto: Luz alta, trocando para a baixa ao cruzar com outro veículo ou ao segui-lo.
+        correta: true
+    explicacao: >
+      Nas vias não iluminadas, a luz alta é a regra, mas ela ofusca quem vem em sentido contrário e quem
+      está logo à frente; por isso, nesses momentos, troca-se para a baixa. O pisca-alerta é só para
+      imobilizações e emergências.
+    referencia: CTB art. 40, II
+    trecho_fonte: >
+      nas vias não iluminadas o condutor deve usar luz alta, exceto ao cruzar com outro veículo ou ao
+      segui-lo

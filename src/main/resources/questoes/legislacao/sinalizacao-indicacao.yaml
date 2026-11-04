@@ -18,3 +18,34 @@ questoes:
       indicam serviços (posto, hospital) e atrativos turísticos. Elas não impõem regras nem alertam
       sobre perigos.
     referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. III (Indicação)
+
+  - codigo: SIN-002
+    revisada: true
+    enunciado: >
+      As placas de indicação de serviços auxiliares, como posto de abastecimento, hospital e
+      restaurante, têm fundo:
+    alternativas:
+      - texto: Azul.
+        correta: true
+      - texto: Verde.
+      - texto: Marrom.
+      - texto: Vermelho.
+    explicacao: >
+      Serviços auxiliares usam fundo azul, com o pictograma dentro de um quadro branco. O verde é usado
+      nas placas de orientação de destino em rodovias, e o marrom, nos atrativos turísticos.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. III (Indicação)
+
+  - codigo: SIN-003
+    revisada: true
+    enunciado: >
+      As placas que indicam atrativos turísticos, como museus, parques e monumentos, têm fundo:
+    alternativas:
+      - texto: Azul.
+      - texto: Marrom.
+        correta: true
+      - texto: Amarelo.
+      - texto: Branco.
+    explicacao: >
+      As placas de atrativos turísticos têm fundo marrom, com legenda e pictogramas brancos. O azul é dos
+      serviços auxiliares, e o amarelo, das placas de advertência.
+    referencia: Manual Brasileiro de Sinalização de Trânsito, Vol. III (Indicação)

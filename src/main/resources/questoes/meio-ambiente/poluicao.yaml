@@ -53,3 +53,50 @@ questoes:
     trecho_fonte: >
       Usar no veículo equipamento com som em volume ou freqüência que não sejam autorizados pelo
       CONTRAN: Infração - grave;
+
+  - codigo: MAP-004
+    revisada: true
+    enunciado: >
+      A principal função do catalisador, instalado no sistema de escapamento, é:
+    alternativas:
+      - texto: Aumentar a potência do motor.
+      - texto: Reduzir o barulho do escapamento.
+      - texto: Transformar gases tóxicos, como o monóxido de carbono, em gases menos nocivos.
+        correta: true
+      - texto: Diminuir o consumo de combustível.
+    explicacao: >
+      O catalisador converte monóxido de carbono, hidrocarbonetos e óxidos de nitrogênio em gases menos
+      prejudiciais. Quem reduz o barulho é o silencioso. Retirar ou danificar o catalisador aumenta muito
+      a poluição.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, meio ambiente e convívio social
+
+  - codigo: MAP-005
+    revisada: true
+    enunciado: >
+      Uma atitude do condutor que reduz o consumo de combustível e a emissão de poluentes é:
+    alternativas:
+      - texto: Acelerar forte nas saídas de semáforo.
+      - texto: Deixar o motor ligado com o veículo parado por muito tempo.
+      - texto: Rodar com os pneus abaixo da calibragem recomendada.
+      - texto: Manter o motor regulado, os pneus calibrados e acelerar de forma suave.
+        correta: true
+    explicacao: >
+      Motor desregulado e pneus murchos aumentam o consumo, e acelerações bruscas desperdiçam
+      combustível. Direção suave e manutenção em dia poluem menos e economizam dinheiro.
+    referencia: Res. CONTRAN 789/2020 - curso teórico, meio ambiente e convívio social
+
+  - codigo: MAP-006
+    revisada: true
+    enunciado: >
+      O óleo lubrificante usado, retirado na troca de óleo do motor, deve ser:
+    alternativas:
+      - texto: Deixado no posto ou na oficina, para ser coletado e rerrefinado.
+        correta: true
+      - texto: Despejado na rede de esgoto.
+      - texto: Queimado em um terreno baldio.
+      - texto: Enterrado longe de rios.
+    explicacao: >
+      Um litro de óleo usado contamina uma enorme quantidade de água e solo. A regra é a coleta e o
+      rerrefino: postos e oficinas que fazem a troca são obrigados a recolher o óleo e destiná-lo
+      corretamente.
+    referencia: Res. CONAMA 362/2005 (óleo lubrificante usado)

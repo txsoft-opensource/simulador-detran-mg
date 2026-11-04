@@ -21,3 +21,23 @@ questoes:
     trecho_fonte: >
       deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito
       Federal, onde estiver registrado o veículo
+
+  - codigo: VEI-002
+    revisada: true
+    enunciado: >
+      Quem compra um veículo usado tem quantos dias para fazer a transferência de propriedade, com a
+      emissão do novo Certificado de Registro de Veículo?
+    alternativas:
+      - texto: Trinta dias.
+        correta: true
+      - texto: Quinze dias.
+      - texto: Sessenta dias.
+      - texto: Noventa dias.
+    explicacao: >
+      O prazo é de 30 dias (art. 123, § 1º). Depois disso, deixar de registrar a transferência é
+      infração média, com remoção do veículo (art. 233). O vendedor também deve comunicar a venda ao
+      órgão de trânsito, para não responder pelas infrações do novo dono (art. 134).
+    referencia: CTB art. 123, § 1º
+    trecho_fonte: >
+      o prazo para o proprietário adotar as providências necessárias à efetivação da expedição do novo
+      Certificado de Registro de Veículo é de trinta dias
